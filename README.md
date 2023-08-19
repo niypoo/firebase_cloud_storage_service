@@ -3,9 +3,4 @@
 A new Flutter module project.
 
 ## Getting Started
-
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+the "firebase_cloud_storage_service" service that designed by flutter(dart) depends on [GetX and firebase_storage] for manage firebase storage functionalities .
